@@ -1,2 +1,4 @@
 myVulkan.sdf
 *.suo
+*.VC.db
+*.log
